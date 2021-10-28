@@ -1,4 +1,4 @@
-# 🗂 Text Divider Row
+# :deciduous_tree: Text Divider Row
 
 This card is for [Lovelace](https://www.home-assistant.io/lovelace) on [Home Assistant](https://www.home-assistant.io/) to display a text divider in an entities card
 
