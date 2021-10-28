@@ -2,25 +2,6 @@
 
 This card is for [Lovelace](https://www.home-assistant.io/lovelace) on [Home Assistant](https://www.home-assistant.io/) to display a text divider in an entities card
 
-[![GitHub Release][releases-shield]][releases]
-[![License][license-shield]](LICENSE.md)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-
-![Project Maintenance][maintenance-shield]
-[![GitHub Activity][commits-shield]][commits]
-
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
-[![Twitter][twitter]][twitter]
-[![Github][github]][github]
-
-## Support
-
-Hey dude! Help me out for a couple of :beers: or a :coffee:!
-
-[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/zJtVxUAgH)
-
 ## Installation
 
 Use [HACS](https://hacs.xyz) or follow this [guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins)
@@ -55,16 +36,3 @@ Can be specified by color name, hexadecimal, rgb, rgba, hsl, hsla, basically any
 | `text-divider-line-size` | `1px`                  | Line size     |
 
 ## [Troubleshooting](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins)
-
-[commits-shield]: https://img.shields.io/github/commit-activity/y/iantrich/text-divider-row.svg?style=for-the-badge
-[commits]: https://github.com/iantrich/text-divider-row/commits/master
-[discord]: https://discord.gg/Qa5fW2R
-[discord-shield]: https://img.shields.io/discord/330944238910963714.svg?style=for-the-badge
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
-[forum]: https://community.home-assistant.io/t/lovelace-text-divider-row/111301
-[license-shield]: https://img.shields.io/github/license/iantrich/text-divider-row.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-Ian%20Richardson%20%40iantrich-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/iantrich/text-divider-row.svg?style=for-the-badge
-[releases]: https://github.com/iantrich/text-divider-row/releases
-[twitter]: https://img.shields.io/twitter/follow/iantrich.svg?style=social
-[github]: https://img.shields.io/github/followers/iantrich.svg?style=social
